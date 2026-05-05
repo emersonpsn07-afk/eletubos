@@ -5,8 +5,8 @@
 ## 🔄 Antes e Depois
 
 <p align="center">
-  <img src="img/antes.png" alt="Antes - eletubos.com.br" width="450">
-  <img src="img/depois.png" alt="Depois - novo design" width="450">
+  <img src="img/eletubos.com.br.png" alt="Antes - eletubos.com.br" width="450">
+  <img src="img/eletubos-new-designe.png" alt="Depois - novo design" width="450">
 </p>
 
 <p align="center">
