@@ -2,6 +2,33 @@
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge)
 
+# ⚡ Eletubos - Redesign do Site
+
+![Status](https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge)
+
+## 📌 Sobre
+
+Este projeto consiste no **redesign do site da Eletubos**, com foco em melhorar a aparência visual, organização das informações e experiência do usuário.
+
+---
+
+## 🔄 Antes e Depois
+
+<p align="center">
+  <img src="img/home-eletubos-antes.png" alt="Antes - eletubos.com.br" width="450">
+  <img src="img/home-eletubos-depois.png" alt="Depois - novo design" width="450">
+</p>
+
+<p align="center">
+  <i>Comparação do site original com o novo design desenvolvido.</i>
+</p>
+
+---
+
+## 🔗 Links
+
+- 🌐 Site original: https://eletubos.com.br  
+- 🚀 Novo design: https://SEU-LINK-AQUI
 
 ## 📌 Sobre o projeto
 
