@@ -2,6 +2,17 @@
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge)
 
+## 🔄 Antes e Depois
+
+<p align="center">
+  <img src="img/antes.png" alt="Antes - eletubos.com.br" width="450">
+  <img src="img/depois.png" alt="Depois - novo design" width="450">
+</p>
+
+<p align="center">
+  <i>Comparação do site original vs novo design desenvolvido.</i>
+</p>
+
 ## 📌 Sobre o projeto
 
 O **Eletubos** é um projeto em desenvolvimento com foco em modernizar o site da empresa onde trabalho.  
