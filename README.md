@@ -2,16 +2,6 @@
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge)
 
-## 🔄 Antes e Depois
-
-<p align="center">
-  <img src="img/eletubos.com.br.png" alt="Antes - eletubos.com.br" width="450">
-  <img src="img/eletubos-new-designe.png" alt="Depois - novo design" width="450">
-</p>
-
-<p align="center">
-  <i>Comparação do site original vs novo design desenvolvido.</i>
-</p>
 
 ## 📌 Sobre o projeto
 
