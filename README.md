@@ -28,7 +28,7 @@ Este projeto consiste no **redesign do site da Eletubos**, com foco em melhorar 
 ## 🔗 Links
 
 - 🌐 Site original: https://eletubos.com.br  
-- 🚀 Novo design: https://SEU-LINK-AQUI
+- 🚀 Novo design: [https://SEU-LINK-AQUI](https://emerson-o-campos.github.io/eletubos/)
 
 ## 📌 Sobre o projeto
 
