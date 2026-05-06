@@ -4,7 +4,6 @@
 
 # ⚡ Eletubos - Redesign do Site
 
-![Status](https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge)
 
 ## 📌 Sobre
 
