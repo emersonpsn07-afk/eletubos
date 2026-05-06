@@ -16,12 +16,8 @@ Este projeto consiste no **redesign do site da Eletubos**, com foco em melhorar 
 
 <p align="center">
   <img src="img/home-eletubos-antes.png" alt="Antes - eletubos.com.br" width="450">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="img/home-eletubos-depois.png" alt="Depois - novo design" width="450">
-</p>
-
-<p align="center">
-  <i>Comparação do site original com o novo design desenvolvido.</i>
 </p>
 
 ---
