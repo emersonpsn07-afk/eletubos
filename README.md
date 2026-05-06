@@ -16,6 +16,7 @@ Este projeto consiste no **redesign do site da Eletubos**, com foco em melhorar 
 
 <p align="center">
   <img src="img/home-eletubos-antes.png" alt="Antes - eletubos.com.br" width="450">
+  
   <img src="img/home-eletubos-depois.png" alt="Depois - novo design" width="450">
 </p>
 
@@ -28,7 +29,7 @@ Este projeto consiste no **redesign do site da Eletubos**, com foco em melhorar 
 ## 🔗 Links
 
 - 🌐 Site original: https://eletubos.com.br  
-- 🚀 Novo design: [https://SEU-LINK-AQUI](https://emerson-o-campos.github.io/eletubos/)
+- 🚀 Novo design: https://emerson-o-campos.github.io/eletubos/
 
 ## 📌 Sobre o projeto
 
